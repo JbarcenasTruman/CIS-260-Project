@@ -11,3 +11,8 @@ First, we build a network overlay inside Cisco packet tracer. Using a topology, 
 
 # Cyber Security Report
 A Template for a Cybersecurity report will be used, as depending on each IT office and environment they will be different. This template has the basis of what most reports will look like and will be filled out as such. 
+
+
+### Notes 9/26
+
+Please look at [Zeek](https://zeek.org/)
