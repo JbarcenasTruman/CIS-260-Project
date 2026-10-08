@@ -15,4 +15,4 @@ A Template for a Cybersecurity report will be used, as depending on each IT offi
 
 ### Notes 9/26
 
-Please look at [Zeek](https://zeek.org/)
+Please look at [Zeek]
