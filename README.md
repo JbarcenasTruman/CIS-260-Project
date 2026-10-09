@@ -10,5 +10,5 @@ First, we build a network overlay inside Cisco packet tracer. Using a topology, 
 
 
 # Cyber Security Report
-A Template for a Cybersecurity report will be used, as depending on each IT office and environment they will be different. This template has the basis of what most reports will look like and will be filled out as such. Noting what the packet is, what it interrupted or how it got into the network. What vulnerabilities are in the network, list ways to fix the scenario, and next steps to take to prevent the issue from happening again.
+A Template for a Cybersecurity report will be used, as depending on each IT office and environment they will be different. This template has the basis of what most reports will look like and will be filled out as such. Noting what the packet is, what it interrupted or how it got into the network. What vulnerabilities are in the network, list ways to fix the scenario, and next steps to take to prevent the issue from happening again. The document is extensive and is a basis of what every security office for IT documents. The Template provided in the GitHub is a example of what most offices use, they may not always be the same but it will be used for this project. The premise to using this is to get a better idea of how cybersecurity works and how network protection is possible.
 
